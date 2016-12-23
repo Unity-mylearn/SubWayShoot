@@ -80,7 +80,9 @@
      <Compile Include="Assets\_CompletedAssets\Scripts\Managers\GameOverManager.cs" />
      <Compile Include="Assets\_CompletedAssets\Scripts\Managers\PauseManager.cs" />
      <Compile Include="Assets\_CompletedAssets\Scripts\Managers\ScoreManager.cs" />
+     <Compile Include="Assets\_CompletedAssets\Scripts\Player\JoyStick.cs" />
      <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerHealth.cs" />
+     <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerMove.cs" />
      <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerShooting.cs" />
      <None Include="Assets\_CompletedAssets\SampleAssets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
